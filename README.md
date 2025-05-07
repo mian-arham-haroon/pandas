@@ -16,3 +16,14 @@ This project includes educational content, hands-on examples, and exercises to h
 
 ## 📁 Folder Structure
 
+pandas_training/
+├── lectures/
+│ └── pandas_intro.md / .ipynb # Lecture materials
+├── training/
+│ └── training_examples.ipynb # Hands-on training code
+├── exercises/
+│ └── pandas_exercises.ipynb # Practice tasks
+├── data/
+│ └── sample_dataset.csv # Dataset used in examples
+├── README.md # Project info and guide
+└── requirements.txt # Python dependencies
