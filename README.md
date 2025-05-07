@@ -14,25 +14,21 @@ This project includes educational content, hands-on examples, and exercises to h
 
 ---
 
----
-
 ## 🚀 How to Get Started
 
-1. Clone the repository:
+### 1. Clone the Repository
+
+Make sure you have Git installed. If not, [download Git](https://git-scm.com/downloads) or download the ZIP of this repo manually.
+
 ```bash
-# Clone the repository
-# Make sure you have git installed
-# If you don't have git, you can download the zip file from GitHub and extract it
-# Open your terminal or command prompt
-# Navigate to the directory where you want to clone the repository
-# Use the following command to clone the repository
 git clone https://github.com/mian-arham-haroon/pandas_training.git
 cd pandas_training
-
+```
+### 2. Install Required Libraries
 pip install -r requirements.txt
-
-# Use the following command to clone the repository
-1. Open the Jupyter Notebook files in your browser.
-2. Run the following command to start Jupyter Notebook:
+pip install pandas jupyter matplotlib seaborn
 jupyter notebook
 ```
+
+---
+
